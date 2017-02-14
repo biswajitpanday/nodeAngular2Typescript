@@ -1,0 +1,2 @@
+F:\PRACTICE\ANGULAR\NodeAngular2\NodejsWebApp1\bin\Microsoft.NodejsTools.WebRole.dll
+F:\PRACTICE\ANGULAR\NodeAngular2\NodejsWebApp1\obj\Debug\NodejsWebApp1.njsprojResolveAssemblyReference.cache
