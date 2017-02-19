@@ -1,6 +1,3 @@
-/**
- * Created by NamitaMalik on 9/28/2016.
- */
 import {NgModule}     from '@angular/core';
 import {RouterModule} from '@angular/router';
 import {UsersComponent}    from './users.component';

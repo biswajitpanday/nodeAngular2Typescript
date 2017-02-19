@@ -1,6 +1,3 @@
-/**
- * Created by NamitaMalik on 9/27/2016.
- */
 import {NgModule} from '@angular/core';
 import {CommonModule} from '@angular/common';
 import {TasksComponent} from './tasks.component';

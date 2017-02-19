@@ -8,9 +8,6 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
-/**
- * Created by NamitaMalik on 9/28/2016.
- */
 var core_1 = require('@angular/core');
 var UsersListComponent = (function () {
     function UsersListComponent() {

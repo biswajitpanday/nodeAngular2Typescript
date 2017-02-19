@@ -1,6 +1,3 @@
-/**
- * Created by NamitaMalik on 9/27/2016.
- */
 import {Component} from '@angular/core';
 import {Router} from '@angular/router';
 
